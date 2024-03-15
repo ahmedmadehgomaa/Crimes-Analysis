@@ -47,7 +47,3 @@ Identifies the number of crimes committed against victims by age group.
 This analysis provides valuable insights into crime patterns, which can aid in resource allocation and crime prevention strategies.
 
 For any inquiries or suggestions, feel free to contact the project maintainer.
-
----
-
-*This project is licensed under the [MIT License](LICENSE).*
